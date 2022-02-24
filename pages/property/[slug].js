@@ -30,13 +30,15 @@ export const Property = ({
       <hr />
       <h4>Enhanced Clean</h4>
       <p>
-        This host is committed to AirBnb's 5-step enhanced cleaning process.
+        This host is committed to AirBnb&apos;s 5-step enhanced cleaning
+        process.
       </p>
       <h4>Amenities for everyday living</h4>
       <p>The host has equipped this property with everything!</p>
       <h4>Enhanced Clean</h4>
       <p>
-        This host is committed to AirBnb's 5-step enhanced cleaning process.
+        This host is committed to AirBnb&apos;s 5-step enhanced cleaning
+        process.
       </p>
     </div>
   );
