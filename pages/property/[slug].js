@@ -31,7 +31,7 @@ export const Property = ({
       <h4>Enhanced Clean</h4>
       <p>
         This host is committed to AirBnb&apos;s 5-step enhanced cleaning
-        process.
+        process. Why is this so hard.
       </p>
       <h4>Amenities for everyday living</h4>
       <p>The host has equipped this property with everything!</p>
